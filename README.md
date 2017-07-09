@@ -3,11 +3,19 @@ My AIO is in Beta. Forum Thread : https://www.elobuddy.net/topic/44536-713-0001-
 
 If you wanna to help me develop it, contact me.
 
-#Change Logs
+## Change Logs
+
+- 0.0.0.6
+> - Fix spaghetti Gangplank code
+> - Add Gangplank feature: "Draw text if someone low health"
+> - Add Gangplank feature: "Auto barrel if target is killable"
+> - Gangplank R Save ally now working correctly & R Ks now calculate more accurate
+> - Change Viktor logic combo
+> - Change Zilean E logic
 
 - 0.0.0.5
 > - Added Gangplank feature: "Key to barrels chain to cursor" and "Draw Connection range"
-> - Added Gangplank feature: "Killsteal by R and Q" and "Save ally when RAISE MORALE updated"
+> - Added Gangplank feature: "Killsteal by R and Q" and "Save ally when RAISE MORALE upgrade"
 > - Added Gangplank feature: "Q to barrel while fleeing"
 > - Improve Gangplank Combo
 > - Improve Cassiopeia LaneClear
