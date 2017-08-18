@@ -5,10 +5,18 @@ If you wanna to help me develop it, contact me.
 
 ## Change Logs
 
+- 0.0.0.7
+> - Added Gangplank feature: "Auto harras with barrels"
+> - Fix Spagheti code on Lucian
+> - Change barrels logic
+> - Change Syndra QE logic
+> - Added Viktor feature : "Disable aa while don't have empowered attack"
+> - Added performace custom config
+
 - 0.0.0.6
 > - Fix spaghetti Gangplank code
-> - Add Gangplank feature: "Draw text if someone low health"
-> - Add Gangplank feature: "Auto barrel if target is killable"
+> - Added Gangplank feature: "Draw text if someone low health"
+> - Added Gangplank feature: "Auto barrel if target is killable"
 > - Gangplank R Save ally now working correctly & R Ks now calculate more accurate
 > - Change Viktor logic combo
 > - Change Zilean E logic
