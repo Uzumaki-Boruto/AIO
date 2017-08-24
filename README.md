@@ -5,6 +5,14 @@ If you wanna to help me develop it, contact me.
 
 ## Change Logs
 
+- 0.0.0.8
+> - Fix Some spaghetti code cause FPS drop
+> - Fix Viktor sometimes not anti-gapcloser
+> - Added Leblanc (Only Combo / Only avaiable in custom)
+> - Added Riven (Only Combo / Only avaiable in custom)
+> - Fix Gangplank make the game crash
+> - Fix Zilean E like idiot
+
 - 0.0.0.7
 > - Added Gangplank feature: "Auto harras with barrels"
 > - Fix Spagheti code on Lucian
